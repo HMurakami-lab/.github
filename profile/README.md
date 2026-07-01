@@ -1,5 +1,5 @@
 <h1 align="center">Murakami Lab 🧬</h1>
-<h3 align="center">Meiotic Recombination · Chromosome-Axis Biology · Reproducible Genomics 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
+<h3 align="center">Meiotic Recombination · Chromosome-Axis Biology · Reproducible Genomics</h3>
 
 <p align="center">
   <strong>Institute of Medical Sciences</strong><br>
@@ -105,7 +105,7 @@ chromosomes.
 | [Dr Hajime Murakami](https://www.abdn.ac.uk/people/hajime.murakami1) | Principal Investigator | Meiotic recombination initiation and chromosome-axis regulation |
 | [Dr Hasan Alnaser](https://www.abdn.ac.uk/people/hasan.alnaser) | Research Fellow | Protein–protein interactions in meiosis via proximity labelling & mass spectrometry |
 | [Arrosan Rajalingam](https://arrosanrajalingam.github.io/) | PhD Researcher | Cohesin–chromosome-axis protein interactions in recombination initiation |
-| More members | 🌱 Coming soon | Lab member profiles can be added here |
+| More members | 🌱 Coming soon |  |
 
 ---
 

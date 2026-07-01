@@ -105,7 +105,7 @@ chromosomes.
 | [Dr Hajime Murakami](https://www.abdn.ac.uk/people/hajime.murakami1) | Principal Investigator | Meiotic recombination initiation and chromosome-axis regulation |
 | [Dr Hasan Alnaser](https://www.abdn.ac.uk/people/hasan.alnaser) | Research Fellow | Protein–protein interactions in meiosis via proximity labelling & mass spectrometry |
 | [Arrosan Rajalingam](https://arrosanrajalingam.github.io/) | PhD Researcher | Cohesin–chromosome-axis protein interactions in recombination initiation |
-| More members | 🌱 Coming soon |  |
+| More members | 🌱 Coming soon | Could be you if you are passionate about meiosis, chromosome biology, or computational genomics |
 
 ---
 

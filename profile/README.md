@@ -39,7 +39,7 @@ chromosomes.
 > 🔬 **Core question:** how do chromosome-axis proteins help shape where and
 > when meiotic DNA double-strand breaks form?
 
-<p align="center"><i>Meiosis · Recombination · Chromosome Axis (Hop1 / Red1) · DSB Formation · Yeast Genomics</i></p>
+<p align="center"><i>Meiosis · Recombination · Cohesin (Rec8) · Chromosome Axis (Hop1 / Red1) · DSB Formation · Yeast Genomics</i></p>
 
 🔬 **In the lab & at the terminal:**
 
@@ -56,6 +56,7 @@ chromosomes.
 | --- | --- |
 | Meiotic recombination initiation | How programmed DNA double-strand breaks are formed and controlled |
 | Chromosome-axis regulation | Roles of factors including Hop1 and Red1 in meiotic chromosome organization |
+| Cohesin–axis interaction | How meiotic cohesin (Rec8) cooperates with chromosome-axis proteins to organize chromosomes |
 | Recombination landscape control | How cells direct recombination to appropriate chromosomal regions |
 | Yeast molecular genetics | Experimental systems for dissecting meiotic chromosome biology |
 | Reproducible genomics | Pipelines for sequencing-based experiments, quality control, and data sharing |
@@ -101,7 +102,9 @@ chromosomes.
 
 | Name | Role | Focus |
 | --- | --- | --- |
-| Dr Hajime Murakami | Principal Investigator | Meiotic recombination initiation and chromosome-axis regulation |
+| [Dr Hajime Murakami](https://www.abdn.ac.uk/people/hajime.murakami1) | Principal Investigator | Meiotic recombination initiation and chromosome-axis regulation |
+| [Dr Hasan Alnaser](https://www.abdn.ac.uk/people/hasan.alnaser) | Research Fellow | Protein–protein interactions in meiosis via proximity labelling & mass spectrometry |
+| [Arrosan Rajalingam](https://arrosanrajalingam.github.io/) | PhD Researcher | Cohesin–chromosome-axis protein interactions in recombination initiation |
 | More members | 🌱 Coming soon | Lab member profiles can be added here |
 
 ---
@@ -156,4 +159,4 @@ initiation and the molecular control of meiotic DNA break formation.
 
 ---
 
-<p align="center"><b>Meiosis · Recombination · Chromosome Axis · Hop1 · Red1 · DSB Formation · Yeast Genomics</b></p>
+<p align="center"><b>Meiosis · Recombination · Cohesin · Rec8 · Chromosome Axis · Hop1 · Red1 · DSB Formation · Yeast Genomics</b></p>
